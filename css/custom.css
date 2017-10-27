@@ -1,0 +1,98 @@
+.hero {
+ 	background-color: #bfddde; 
+ 	padding: 150px 20px 50px 20px;
+ 
+}
+
+	
+h2 {
+
+	color: #333333;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 72px;
+
+	
+	}
+	
+	
+h3 {
+	color: #333333;
+	font-family: 'Playfair Display', sans-serif;
+	line-height: 150%;
+	
+	
+	 }
+	 
+.cursive {
+
+	color: #333333;
+	font-family: 'Cedarville Cursive', cursive;
+	font-size: 36px;
+	padding: 0px 0px 300px 0px;
+
+	}
+	
+
+.center-icon {
+
+	text-align: center;
+	padding-bottom: 0px;
+	
+	}
+	
+.about {
+
+	padding: 50px 20px 100px 20px;
+	
+	}
+	 
+h4 {
+
+	color: #333333;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 36px;
+	padding: 20px 0px 25px 0px;
+	
+	}
+	
+h5 {
+
+	color: #333333;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 24px;
+	padding: 20px 0px 10px 0px;
+	
+	}
+	
+p {
+	color: #333333;
+	font-family: 'Playfair Display', sans-serif;
+	font-size: 150%;
+	line-height:150%;
+	
+	}
+	
+.skills {
+ 	background-color: #f0e8e1; 
+ 	padding: 25px 25px 70px 25px;
+ 
+}
+	
+.center {
+	
+	text-align: center;
+	
+	}
+	
+.blog {
+ 	background-color: #fff; 
+ 	padding: 25px 25px 75px 25px;
+ 
+ }
+ 
+
+.footer {
+ 	background-color: #f0e8e1; 
+ 	padding: 25px 25px 25px 25px;
+ 
+}
